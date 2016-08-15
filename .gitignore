@@ -20,7 +20,16 @@
 .idea/uiDesigner.xml
 
 # Gradle:
-.idea
+.idea/copyright
+.idea/libraries
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/workspace.xml
 
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
