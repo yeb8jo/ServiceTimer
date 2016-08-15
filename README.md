@@ -1,5 +1,6 @@
 # ServiceTimer
 
+![http://http://imgur.com/S7WHbWz.jpg](http://imgur.com/S7WHbWz.jpg)
 
 単純なサービス
 > http://android.keicode.com/basics/services-simple.php
